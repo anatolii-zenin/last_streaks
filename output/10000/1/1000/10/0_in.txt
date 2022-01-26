@@ -1,0 +1,2 @@
+# star_number	streak_number	star_snr	streak_snr	seed
+10000	1	1000.0	10.0	0
